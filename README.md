@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 ## 🛠️ My Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,python,mysql,html,css,tailwind,git,vercel" />
+  <img src="https://skillicons.dev/icons?i=js,react,python,mysql,html,css,tailwind,bootstrap,git,github,vercel" />
 </p>
