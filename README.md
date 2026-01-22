@@ -14,7 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🛠️ My Skills
+<!--## 🛠️ My Skills
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,react,python,mysql,html,css,tailwind,bootstrap,git,github,vercel" />
-</p>
+</p>-->
+
+### 🚀 Tech Stack
+- **Frontend:** React, JavaScript (ES6+), HTML5, CSS3
+- **Backend:** Python
+- **Database:** MySQL
+- **Styling:** Tailwind CSS,Bootstrap, Styled Components
+- **Tools:** Git, GitHub, Vercel
