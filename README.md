@@ -25,3 +25,7 @@ Here are some ideas to get you started:
 - **Database:** MySQL
 - **Styling:** Tailwind CSS,Bootstrap, Styled Components
 - **Tools:** Git, GitHub, Vercel
+
+  <p align="left">
+  <img src="https://skillicons.dev/icons?i=js,react,python,mysql,html,css,tailwind,bootstrap,git,github,vercel" />
+</p>
