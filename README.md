@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 </p>-->
 
 ### 🚀 Tech Stack
-- **Frontend:** React, JavaScript (ES6+), HTML5, CSS3
+- **Frontend:** React, JavaScript (ES6+), HTML5, CSS3, jQuery
 - **Backend:** Python
 - **Database:** MySQL
 - **Styling:** Tailwind CSS,Bootstrap, Styled Components
 - **Tools:** Git, GitHub, Vercel
 
   <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,python,mysql,html,css,tailwind,bootstrap,git,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=js,react,python,mysql,html,css,tailwind,bootstrap,jquery,git,github,vercel" />
 </p>
