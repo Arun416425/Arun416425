@@ -21,11 +21,12 @@ Here are some ideas to get you started:
 
 ### 🚀 Tech Stack
 - **Frontend:** React, JavaScript (ES6+), HTML5, CSS3, jQuery
-- **Backend:** Python
+- **Backend:** Python, Django
 - **Database:** MySQL
 - **Styling:** Tailwind CSS,Bootstrap, Styled Components
 - **Tools:** Git, GitHub, Vercel
+- **Editors** VS Code, Pycharm
 
   <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,python,mysql,html,css,tailwind,bootstrap,jquery,git,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=js,react,python,django,mysql,html,css,tailwind,bootstrap,jquery,git,github,vercel,vscode,pycharm" />
 </p>
