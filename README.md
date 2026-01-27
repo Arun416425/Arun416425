@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!--## 🛠️ My Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,python,mysql,html,css,tailwind,bootstrap,git,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=js,react,python,mysql,html,css,tailwind,bootstrap,git,github,vercel,django" />
 </p>-->
 
 ### 🚀 Tech Stack
