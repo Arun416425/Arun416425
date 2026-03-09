@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 - **Editors:** VS Code, Pycharm
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,django,mysql,html,css,tailwind,bootstrap,jquery,git,github,vercel,vscode,pycharm" />
+  <img src="https://skillicons.dev/icons?i=js,python,django,mongodb,express,react,nodejs,mysql,html,css,tailwind,bootstrap,jquery,git,github,vercel,vscode,pycharm" />
 </p>
