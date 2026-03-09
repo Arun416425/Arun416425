@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 - **Tools:** Git, GitHub, Vercel
 - **Editors:** VS Code, Pycharm
 
-  <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,node,express,mongodb,python,django,mysql,html,css,tailwind,bootstrap,jquery,git,github,vercel,vscode,pycharm" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,django,mysql,html,css,tailwind,bootstrap,jquery,git,github,vercel,vscode,pycharm" />
 </p>
