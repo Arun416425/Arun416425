@@ -1,5 +1,5 @@
 ## Hi there 👋
-<p>A passionate Full Stack Web Developer </p>
+<p>A Passionate Full Stack Web Developer </p>
 
 <!--
 **Arun416425/Arun416425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
