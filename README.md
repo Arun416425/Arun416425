@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 - **Database:** MySQL, MongoDB
 - **Styling:** Tailwind CSS,Bootstrap, Styled Components
 - **Tools:** Git, GitHub, Vercel
+- **Others:** Postman, Thunder Client
 - **Editors:** VS Code, Pycharm
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,django,mongodb,express,react,nodejs,mysql,html,css,tailwind,bootstrap,jquery,git,github,vercel,vscode,pycharm" />
+  <img src="https://skillicons.dev/icons?i=js,python,django,mongodb,express,react,nodejs,mysql,html,css,tailwind,bootstrap,jquery,git,github,vercel,vscode,pycharm,postman" />
 </p>
