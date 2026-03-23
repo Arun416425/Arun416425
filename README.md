@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 - **Backend:** Python, Django, Django REST Framework, Node.js, Express.js
 - **Database:** MySQL, MongoDB
 - **Styling:** Tailwind CSS,Bootstrap, Styled Components
-- **Tools:** Git, GitHub, Vercel, Postman, Thunder Client
+- **Tools:** Git, GitHub, Postman, Thunder Client
+- **Deployment:** Vercel, Render
 - **Editors:** VS Code, Pycharm
 
 ## 🛠️ My Skills
