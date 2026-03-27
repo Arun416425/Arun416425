@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - **Styling:** Tailwind CSS,Bootstrap, Styled Components
 - **Tools:** Git, GitHub, Postman, Thunder Client
 - **Deployment:** Vercel, Render
-- **Editors:** VS Code, Pycharm
+- **Editors:** VS Code
 
 ## 🛠️ My Skills
 <p align="left">
