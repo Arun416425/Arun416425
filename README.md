@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p>-->
 
 ### 🚀 Tech Stack
-- **Frontend:** React, JavaScript (ES6+), HTML5, CSS3, jQuery
+- **Frontend:** React, Angular, JavaScript (ES6+), HTML5, CSS3, jQuery
 - **Backend:** Python, Django, Django REST Framework, Node.js, Express.js
 - **Database:** MySQL, MongoDB
 - **Styling:** Tailwind CSS,Bootstrap, Styled Components
