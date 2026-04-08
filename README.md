@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 
 ## 🛠️ My Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,django,mongodb,express,react,nodejs,angular,mysql,html,css,tailwind,bootstrap,jquery,git,github,vercel,vscode,pycharm,postman" />
+  <img src="https://skillicons.dev/icons?i=js,python,django,mongodb,express,react,nodejs,angular,typescript,mysql,html,css,tailwind,bootstrap,jquery,git,github,vercel,vscode,pycharm,postman" />
 </p>
