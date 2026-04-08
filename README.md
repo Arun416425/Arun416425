@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p>-->
 
 ### 🚀 Tech Stack
-- **Frontend:** React, Angular, JavaScript (ES6+), HTML5, CSS3, jQuery
+- **Frontend:** React, Angular, TypeScript, JavaScript (ES6+), HTML5, CSS3, jQuery
 - **Backend:** Python, Django, Django REST Framework, Node.js, Express.js
 - **Database:** MySQL, MongoDB
 - **Styling:** Tailwind CSS,Bootstrap, Styled Components
@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 
 ## 🛠️ My Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,django,mongodb,express,react,nodejs,angular,mysql,html,css,tailwind,bootstrap,jquery,git,github,vercel,vscode,pycharm,postman" />
+  <img src="https://skillicons.dev/icons?i=js,python,django,mongodb,express,react,nodejs,angular,ts,mysql,html,css,tailwind,bootstrap,jquery,git,github,vercel,vscode,pycharm,postman" />
 </p>
