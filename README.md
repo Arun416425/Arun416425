@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi ther 👋
 <p>A Passionate Full Stack Web Developer</p>
 
 <!--
